@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510522742433",
+    "firebase_url": "https://investock-c8ca0.firebaseio.com",
+    "project_id": "investock-c8ca0",
+    "storage_bucket": "investock-c8ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510522742433:android:33e3422b4dfd6c583b02e0",
+        "android_client_info": {
+          "package_name": "com.investock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510522742433-4v46r4rhtgidovihdhohh0fi8cohmnmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f3NI8f2XjpTLmdpWl5e_Je9Njnnx6Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510522742433-4v46r4rhtgidovihdhohh0fi8cohmnmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510522742433-1fjtcq8c1akbf6uvbq869486pnfb29ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.variabley.Investock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
